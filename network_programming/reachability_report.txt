@@ -1,0 +1,17 @@
+=== BULK NETWORK REACHABILITY REPORT ===
+
+Host:          google.com
+IP Address:    216.58.223.78
+Status:        Reachable
+Response Time: 66 ms
+----------------------------------------
+Host:          127.0.0.1
+IP Address:    127.0.0.1
+Status:        Unreachable
+Response Time: 2001 ms
+----------------------------------------
+Host:          crearsa
+IP Address:    Resolution Failed
+Status:        Unreachable
+Response Time: 2700 ms
+----------------------------------------
